@@ -15,7 +15,8 @@ The project demonstrates how **Excel, Pivot Tables, charts, and dashboard design
 
 ### 🏆 Overview Dashboard
 
-![Overview Dashboard](images/overview-dashboard.png)
+<img width="1227" height="542" alt="overview" src="https://github.com/user-attachments/assets/8543a079-6d1b-4827-9d6d-cbf94687cce6" />
+
 
 ### 👥 Team Performance
 
