@@ -1,47 +1,57 @@
 # SPORTS-PERFOMANCE-DATA-DASHBOARD
 
-# ⚽ Sports Analytics Dashboard – Excel
+# ⚽ Sports Performance Dashboard – Excel
 
 ## 📊 Project Overview
 
-This project is an **interactive Sports Analytics Dashboard created in Microsoft Excel**. The dashboard analyzes match performance, player statistics, fan attendance, engagement, and revenue to provide a comprehensive view of sports business and performance data.
+This project is an **interactive Sports Performance Dashboard built using Microsoft Excel**.
+The dashboard analyzes match performance, team statistics, player performance, attendance, fan engagement, and revenue data.
 
-The dataset contains **5,500 match records** and covers the **Indian Super League (ISL)**, with data related to teams, players, matches, fans, attendance, social media engagement, ticket revenue, and merchandise revenue.
+The project demonstrates how **Excel, Pivot Tables, charts, and dashboard design** can be used to transform raw sports data into meaningful business and performance insights.
 
-## 🎯 Project Objectives
+## 🖼️ Dashboard Preview
 
-The main objective of this project is to transform raw sports data into meaningful insights using **Excel, Pivot Tables, formulas, and dashboard visualizations**.
+> 📌 **Preview:** Add screenshots of your Excel dashboards below.
 
-The dashboard helps answer questions such as:
+### 🏆 Overview Dashboard
 
-* How many matches were won, lost, or drawn?
-* How is team performance changing over time?
-* Which players have the highest goals and assists?
-* Which teams attract the highest attendance?
-* How does attendance vary by match result and month?
-* Which months generate the highest revenue?
-* How much revenue is generated through ticket sales and merchandise?
-* How are fans engaging through different social media channels?
+![Overview Dashboard](images/overview-dashboard.png)
 
-## 🗂️ Dataset
+### 👥 Team Performance
 
-The raw dataset contains **5,500 records and 25 columns**, including:
+![Team Performance Dashboard](images/team-performance.png)
+
+### ⭐ Player Performance
+
+![Player Performance Dashboard](images/player-performance.png)
+
+### 👨‍👩‍👧 Attendance Analysis
+
+![Attendance Dashboard](images/attendance.png)
+
+### 💰 Revenue Analysis
+
+![Revenue Dashboard](images/revenue.png)
+
+---
+
+## 📁 Dataset
+
+The workbook contains **5,500+ match/player records** with information such as:
 
 * Match ID
-* Date & Season
-* Team & Opponent
+* Date and Season
+* Team and Opponent
 * Venue
 * Home/Away Game
 * Goals For & Goals Against
 * Match Result
 * Attendance
-* Player
-* Position
+* Player & Position
 * Minutes Played
 * Goals & Assists
 * Fan Channel
-* Engagement Reach
-* Engagement Rate
+* Engagement Reach & Engagement Rate
 * Merchandise Revenue
 * Fan Age & Gender
 * Average Ticket Price
@@ -50,40 +60,30 @@ The raw dataset contains **5,500 records and 25 columns**, including:
 
 ## 📈 Dashboard Sections
 
-### 1. Overview Dashboard
+### 🏆 Overview
 
-Provides a high-level summary of overall sports performance, including match results and key KPIs.
+Provides a high-level summary of overall sports performance and key KPIs.
 
-### 2. Team Performance
+### 👥 Team Performance
 
-Analyzes team-level performance using wins, losses, draws, goals, and attendance.
+Analyzes team results, wins, losses, draws, goals scored, and overall team performance.
 
-### 3. Player Performance
+### ⭐ Player Performance
 
-Highlights player contributions based on:
+Highlights player statistics including:
 
-* Minutes Played
 * Goals
 * Assists
-* Match results
+* Minutes Played
+* Player contribution
 
-### 4. Attendance Analysis
+### 👨‍👩‍👧 Attendance
 
-Examines stadium attendance across:
+Analyzes stadium attendance and fan participation across matches and seasons.
 
-* Teams
-* Months
-* Match results
-* Overall attendance trends
+### 💰 Revenue
 
-### 5. Revenue Analysis
-
-Analyzes financial performance through:
-
-* Ticket Revenue
-* Average Ticket Price
-* Merchandise Revenue
-* Monthly revenue trends
+Provides insights into ticket revenue and merchandise revenue.
 
 ## 🛠️ Tools & Techniques Used
 
@@ -91,43 +91,59 @@ Analyzes financial performance through:
 * Pivot Tables
 * Pivot Charts
 * Excel Formulas
-* Data Cleaning & Preparation
-* KPI Analysis
-* Dashboard Design
+* Data Cleaning
+* Data Analysis
+* KPI Cards
+* Interactive Dashboard Design
 * Data Visualization
-* Conditional Formatting
 
-## 🔍 Key Insights
+## 🎯 Key Objectives
 
-Based on the analysis:
+* Analyze sports and team performance
+* Identify top-performing players and teams
+* Understand attendance patterns
+* Analyze fan engagement
+* Track ticket and merchandise revenue
+* Convert raw data into actionable insights
+* Build an interactive and visually appealing Excel dashboard
 
-* **5,500 matches** are included in the dataset.
-* **2,859 matches were won**, **1,803 were lost**, and **838 ended in a draw**.
-* The overall win rate is approximately **52%**.
-* Total recorded player statistics include **385 goals** and **451 assists** in the analyzed player-performance section.
-* Average match attendance is approximately **30,000 spectators**.
-* The dashboard provides both **sports-performance insights and business/revenue insights**.
+## 📂 Workbook Structure
 
-## 💡 Business Value
+| Sheet              | Description                    |
+| ------------------ | ------------------------------ |
+| `Raw Data`         | Original sports dataset        |
+| `Pivot Table`      | Pivot tables used for analysis |
+| `Overview`         | Overall performance dashboard  |
+| `TeamPerfomance`   | Team performance analysis      |
+| `PlayerPerfomance` | Player performance analysis    |
+| `Attendance`       | Attendance analysis            |
+| `Revenue`          | Revenue analysis               |
 
-This dashboard demonstrates how sports organizations can use data analytics to make better decisions related to:
+## 💡 Key Insights
 
-* Team and player performance
-* Fan engagement
-* Stadium utilization
-* Ticket pricing
-* Revenue generation
-* Merchandise performance
-* Sports marketing strategy
+The dashboard helps users quickly identify:
 
-## 👩‍💻 Project
+* Overall match performance
+* Winning, losing, and draw patterns
+* Top-performing players
+* Team performance trends
+* Stadium attendance levels
+* Fan engagement patterns
+* Ticket revenue and merchandise revenue performance
 
-**Sports Analytics Dashboard | Microsoft Excel**
+## 🚀 Conclusion
 
-Created as a data analytics and dashboarding project to demonstrate practical skills in **Excel, data analysis, visualization, and business intelligence**.
+This project showcases my ability to **work with raw sports data, perform analysis using Excel, create meaningful KPIs, and design interactive dashboards** that communicate insights clearly.
 
-## 🏁 Conclusion
+It is a practical example of using **Excel for data analysis and visualization** in the sports industry.
 
-This project demonstrates how **Excel can turn sports data into clear and useful insights**. The dashboard helps analyze team performance, player statistics, attendance, and revenue for better data-driven decision-making.
+---
+
+### 📌 Project File
+
+**Sports Dashboard Excel:** `Sports Dashboard Excel_Shan_63(2).xlsx`
+
+⭐ If you find this project useful, feel free to explore the workbook and dashboard!
+
 
 
