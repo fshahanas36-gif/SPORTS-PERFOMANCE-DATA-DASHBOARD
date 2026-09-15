@@ -17,23 +17,6 @@ The project demonstrates how **Excel, Pivot Tables, charts, and dashboard design
 
 <img width="1227" height="542" alt="overview" src="https://github.com/user-attachments/assets/8543a079-6d1b-4827-9d6d-cbf94687cce6" />
 
-
-### 👥 Team Performance
-
-![Team Performance Dashboard](images/team-performance.png)
-
-### ⭐ Player Performance
-
-![Player Performance Dashboard](images/player-performance.png)
-
-### 👨‍👩‍👧 Attendance Analysis
-
-![Attendance Dashboard](images/attendance.png)
-
-### 💰 Revenue Analysis
-
-![Revenue Dashboard](images/revenue.png)
-
 ---
 
 ## 📁 Dataset
@@ -108,21 +91,7 @@ Provides insights into ticket revenue and merchandise revenue.
 * Convert raw data into actionable insights
 * Build an interactive and visually appealing Excel dashboard
 
-## 📂 Workbook Structure
-
-| Sheet              | Description                    |
-| ------------------ | ------------------------------ |
-| `Raw Data`         | Original sports dataset        |
-| `Pivot Table`      | Pivot tables used for analysis |
-| `Overview`         | Overall performance dashboard  |
-| `TeamPerfomance`   | Team performance analysis      |
-| `PlayerPerfomance` | Player performance analysis    |
-| `Attendance`       | Attendance analysis            |
-| `Revenue`          | Revenue analysis               |
-
-## 💡 Key Insights
-
-The dashboard helps users quickly identify:
+-The dashboard helps users quickly identify:
 
 * Overall match performance
 * Winning, losing, and draw patterns
